@@ -1,3 +1,14 @@
 body{
-  background-image: url('/imagens/Referencia.jpg');
+  background-image: url('');
+  display: inline;
+}
+
+.p{
+  
+  color: antiquewhite;
+  font-size-adjust: 15px;
+}
+
+.teste{
+  color: black;
 }
